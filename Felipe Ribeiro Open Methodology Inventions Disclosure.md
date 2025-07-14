@@ -1,8 +1,8 @@
-#[Felipe Ribeiro Open Methodology]
+# [Felipe Ribeiro Open Methodology]
 (https://operarioribeiro.gitbook.io/profile/methodology)
-##Inventions Disclosure
+## Inventions Disclosure
 
-###1. Hypothesis:
+### 1. Hypothesis:
 
 **The Felipe Ribeiro Open Methodology Inventions Disclosure** assesses the complete works of the internationally awarded ambassador of peace (Amb.P.) to pre-register his decades of open science research coordinations on behalf of the planetary common good in cooperations with the most respected individual and institutional stakeholders, most of which are volunteers in dangerous missions under severe financial hardships.
 
@@ -10,7 +10,7 @@
 
 **This Way, It Disclosures the Interest of His Research in Establishing a Precedent for Rule of Law (RoL) Humanitarian Diplomacy Peace Open Education** in order to allow the exponential expansion of the common heritage of humanity safeguard to encompass the countless techniques he assisted to discover, research, develop, improve, and promote in the fields of nonviolent based peace studies, peace education, law studies, solidarity studies, nonprofit studies, social solidarity economy (SSE), open source secure operational development (DevSecOps), open education, open heritage, ecomuseology, ecocuratorship, artscrafts cultural diplomacy, chaplaincy, religious diplomacy, religious education, religious heritage, interfaith law, interfaith diplomacy, interfaith education, justice equity diversity inclusion (JEDI), and welfare sustainable development (SD) logistics.
  
-###2. Variables:
+### 2. Variables:
 
 **2.1. Rule of Law (RoL) Nonviolent Nonprofit Fair Use License:** It is licensed under Creative Commons Attributive Non-Commercial Share-Alike (CC BY-NC-SA) 4.0 along Ethical Source Do No Harm Hippocratic License 3.0 and Contributor Covenant through the European Union Public License (EUPL) Interoperability Downstream Compatibility as an United Nations Education Science Culture Organization (UNESCO) 2019 Recommendation  compliant Open Educational Resources (OER) for Nonviolent Nonprofit Open Science Fair Use.
 
@@ -26,7 +26,7 @@
 
 **2.7. Open Governance Collaboration:** All the works from the author are open for participation of general audience in compliance with rule of law (RoL) nonviolent justice equity diversity inclusion (JEDI) and the Do No Harm Hyppocratical and Contribution Covenant Ethical Source codes of conduct.
 
-###3. Conditions:
+### 3. Conditions:
 
 **3.1. Nonprofit Non-Governmental Organizations (NGOs) Constitutional Development** using The Open Group Architecture Framework (TOGAF) and ConstitutionNet open standards always under the public international law (PIL) fair labor fair trade, ethical banking, corporate social responsibility (CRS) standards for philanthropies.
 
@@ -42,18 +42,18 @@
 
 **4.3. Awards and Media Coverage:** The quantity and quality of future press clipping and online platforms organic traffic.
 
-###5. Exceptions:
+### 5. Exceptions:
 
 **Some of the Author's Secular and Religious Artworks and Creative Enterprises Are Left as Confidential** due to their intimate personal character in order to respect his Peace Church testimony of simplicity confession of faith and his family discretion, but these are also open for juridical analysis, if necessary.
 
-###6. Samples:
+### 6. Samples:
 
 **The Felipe Ribeiro Archive Has:**
 - 357 physical official documents;
 - 789 books; and
 - 1.135 digital files that total 4,2 GigaBytes (GB).
 
-###7. Manuscripts:
+### 7. Manuscripts:
 
 **7.1. Peace Manuscrips:**
 - 2020.10. Peace Games.odt
@@ -125,4 +125,6 @@
 - 2024.04. Religious Education Association (REA) Summit - Interfaith Literacy for Science Communication and Ecology Education.odt
 - 2024.07. The Inquirer - Being an Unitarian in Brazil.odt][0]
 
-![Image](https://operarioribeiro.gitbook.io/profile/~gitbook/image?url=https%3A%2F%2F2567412341-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FkAifYT7UvZTR3TcXI9cO%252Fsites%252Fsite_406DJ%252Ficon%252FiENeh1vDYayoquZbXqJ5%252FFelipe%2520Ribeiro%2520Logo.png%3Falt%3Dmedia%26token%3Da9a25f3d-60ff-46b8-bec7-7433ffd2687f&width=32&dpr=1&quality=100&sign=80cdfaa&sv=2)
+![Image]([https](https://github.com/operarioribeiro/FelipeRibeiroArchive/blob/main/Felipe%20Ribeiro%20Logo.png))
+
+© Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
