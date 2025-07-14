@@ -1,4 +1,4 @@
-# [Felipe Ribeiro Archive](https://operarioribeiro.gitbook.io/profile/methodology](https://github.com/operarioribeiro/FelipeRibeiroArchive)
+# [Felipe Ribeiro Archive](https://github.com/operarioribeiro/FelipeRibeiroArchive)
 
 ## Inventions Disclosure
 
